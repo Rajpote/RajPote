@@ -19,7 +19,7 @@ jobs:
 
       - name: Update README with Most Used Languages
         run: |
-          curl -s https://api.github.com/users/yourusername/repos?per_page=100 | \
+          curl -s https://api.github.com/users/Rajpote/repos?per_page=100 | \
           jq -r '.[].language' | \
           grep -v null | \
           sort | \
