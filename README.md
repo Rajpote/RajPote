@@ -1,7 +1,6 @@
 # Hi there, I'm Raj pote! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
+[![GitHub followers](https://img.shields.io/github/followers/Rajpote?label=Follow&style=social)](https://github.com/Rajpote)
 
 Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast, and lifelong learner. Here, you'll find a collection of my projects, contributions, and interests.
 
