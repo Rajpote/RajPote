@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
@@ -27,13 +28,18 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 
 Here are some of my notable projects:
 
-### TechWave([https://github.com/yourusername/projectname](https://github.com/Rajpote/TechWave))
+### [TechWave](https://github.com/Rajpote/TechWave)
 **Description**: TechWave is an E-commerce platform used for buying tech, gadget etc.  
-![Language](https://img.shields.io/github/languages/top/yourusername/projectname)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/raj-pote-7751b721b/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-pote-7751b721b/))
 [![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 ## GitHub Stats
@@ -45,13 +51,10 @@ Here are some of my notable projects:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Support
+## Most Used Languages
 
-If you like what I do, consider supporting me:
+<!-- LANGUAGES-START -->
+<!-- LANGUAGES-END -->
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Raj pote](https://github.com/Rajpote)
 
