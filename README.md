@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -28,25 +27,13 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 
 Here are some of my notable projects:
 
-### [Project Name](https://github.com/yourusername/projectname)
-**Description**: A brief description of what this project is about and what technologies were used.  
+### TechWave([https://github.com/yourusername/projectname](https://github.com/Rajpote/TechWave))
+**Description**: TechWave is an E-commerce platform used for buying tech, gadget etc.  
 ![Language](https://img.shields.io/github/languages/top/yourusername/projectname)
-
-### [Another Project](https://github.com/yourusername/anotherproject)
-**Description**: Another brief description of this project.  
-![Language](https://img.shields.io/github/languages/top/yourusername/anotherproject)
-
-## Open Source Contributions
-
-I love contributing to open source projects. Here are some repositories I've contributed to:
-
-- [Open Source Project 1](https://github.com/opensourceproject1)
-- [Open Source Project 2](https://github.com/opensourceproject2)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/raj-pote-7751b721b/))
 [![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
 
 ## GitHub Stats
