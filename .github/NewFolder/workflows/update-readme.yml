@@ -1,0 +1,39 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README with Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1.2.3
+        with:
+          feed_list: "https://yourblog.com/rss"
+
+      - name: Update README with Most Used Languages
+        run: |
+          curl -s https://api.github.com/users/yourusername/repos?per_page=100 | \
+          jq -r '.[].language' | \
+          grep -v null | \
+          sort | \
+          uniq -c | \
+          sort -rn | \
+          head -n 10 | \
+          awk '{print "- **" $2 "**: " $1 " repositories"}' > most_used_languages.txt
+          sed -i '/<!-- LANGUAGES-START -->/,/<!-- LANGUAGES-END -->/{//!d}' README.md
+          sed -i '/<!-- LANGUAGES-START -->/r most_used_languages.txt' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README with latest blog posts and languages"
+          git push
