@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 ## About Me
 
 - 🔭 I’m currently working on Travel Recomemendation System
-- 🌱 I’m currently learning Reacr.js
+- 🌱 I’m currently learning React.js
 - 💬 Ask me about javaScript
 - 📫 How to reach me: rrajpote@gmail.com
 
