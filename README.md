@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 
 ## About Me
 
-- 🔭 I’m currently working on Travel Recomemendation System
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js/Next.js
 - 💬 Ask me about javaScript
 - 📫 How to reach me: rrajpote@gmail.com
 
@@ -44,16 +43,6 @@ Here are some of my notable projects:
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&theme=radical)
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## Most Used Languages
-
-<!-- LANGUAGES-START -->
-<!-- LANGUAGES-END -->
 
 ⭐️ From [Raj pote](https://github.com/Rajpote)
 
